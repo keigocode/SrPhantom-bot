@@ -1,0 +1,25 @@
+{
+  "name": "automatize",
+  "version": "1.0.0",
+  "description": "Auto task",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "keywords": [
+    "auto",
+    "automatize",
+    "service"
+  ],
+  "author": "keigocode",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "firebase-admin": "^10.0.0",
+    "mordekayh.js": "^2.0.5",
+    "system-cache": "^1.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
