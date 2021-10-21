@@ -24,4 +24,4 @@ bot.on('messageCreate', async (message) => {
 	command.func(bot, message, server, usuario);
 });
 
-bot.login('ODc4NDgxODMyMjIyNTQ3OTk4.YSBz9g.e921UtV4KS6Fded7iRP4zDjyAFY');
+bot.login('your token here');
